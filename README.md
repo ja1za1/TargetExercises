@@ -1,2 +1,2 @@
 # TargetExercises
-A few exercises to a job application made in Java
+A few exercises to a internship application made in Java
