@@ -1,5 +1,5 @@
 # TargetExercises
-A few exercises to a internship application made in Java
+This program solves all the four exercises required from part 2 of pratice quiz
 
 ## Execution
 A photo of the program console after executing all functions
